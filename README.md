@@ -35,8 +35,8 @@ To become a MERN stack developer, you need to have a solid understanding of each
 
 MERN stack developers are in high demand, with many job opportunities available in a variety of industries. Some of the roles that MERN stack developers may be suited for include:
 
-    1.Proficiency in JavaScript and related technologies
-    2.Strong knowledge of HTML, CSS, and web standards
+    1.Front-end Developer
+    2.Full-stack Developer
     3.Experience with React.js and Node.js
     4.Familiarity with MongoDB and other NoSQL databases
     5.Understanding of RESTful API design and development
@@ -47,8 +47,7 @@ MERN stack developers are in high demand, with many job opportunities available 
 
 
 
-   1.Front-end Developer   
-   2.Full-stack Developer   
+ 
    3.Web Application Developer
    4.Software Developer
    5.UI/UX Developer
