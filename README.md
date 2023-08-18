@@ -12,6 +12,7 @@ The responsibilities of a MERN stack developer can vary depending on the organiz
     5.Collaborating with the development team to ensure the application meets requirements
     6.Optimizing the application for performance and scalability
     7.Ensuring the application is secure and follows best practices
+    
 ### Skills Required to Become a MERN Stack Developer:
 To become a MERN stack developer, you need to have a solid understanding of each component of the stack, as well as a range of other technical skills. The following are some of the key skills required to become a MERN stack developer:
 
