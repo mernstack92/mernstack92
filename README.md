@@ -37,22 +37,11 @@ MERN stack developers are in high demand, with many job opportunities available 
 
     1.Front-end Developer
     2.Full-stack Developer
-    3.Experience with React.js and Node.js
-    4.Familiarity with MongoDB and other NoSQL databases
-    5.Understanding of RESTful API design and development
-    6.Experience with Git and version control
-    7.Familiarity with Agile development methodologies
-    8.Excellent problem-solving and analytical skills
-
-
-
-
- 
-   3.Web Application Developer
-   4.Software Developer
-   5.UI/UX Developer
-   6.React Native Developer
-    
+    3.Web Application Developer
+    4.Software Developer
+    5.UI/UX Developer
+    6.React Native Developer
+  
 ### Conclusion: 
 In conclusion, a MERN stack developer is responsible for building web applications using the MERN stack. To become a MERN stack developer, you need to have a solid understanding of each component of the stack, as well as a range of other technical skills. MERN stack developers are in high demand, with many Mern stack developer job opportunities available in a variety of industries .
 
