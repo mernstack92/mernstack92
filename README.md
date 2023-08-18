@@ -33,13 +33,12 @@ To become a MERN stack developer, you need to have a solid understanding of each
 ### Job Opportunities for MERN Stack Developers:
 
 MERN stack developers are in high demand, with many job opportunities available in a variety of industries. Some of the roles that MERN stack developers may be suited for include:
-
-   1.Front-end Developer
-   2.Full-stack Developer
-   3.Web Application Developer
-   4.Software Developer
-   5.UI/UX Developer
-6.React Native Developer
+    1.Front-end Developer
+    2.Full-stack Developer
+    3.Web Application Developer
+    4.Software Developer
+    5.UI/UX Developer
+    6.React Native Developer
 
 Conclusion: In conclusion, a MERN stack developer is responsible for building web applications using the MERN stack. To become a MERN stack developer, you need to have a solid understanding of each component of the stack, as well as a range of other technical skills. MERN stack developers are in high demand, with many Mern stack developer job opportunities available in a variety of industries .
 
